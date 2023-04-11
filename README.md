@@ -1,4 +1,12 @@
 ## Hello world! I am Pedro Costard 👋
+ 
+I'm student at UNEB (Universidade Estadual da Bahia) and I'm currently learning "Digital Games". You can see the subjects wich I lerant and will learn here.
+
+Before I started to study at UNEB I was at IFBA (Instituto Federal da Bahia). There I studied Analysis and Development of Systems. That way I discovered that I love programing... but I still loved art, music... So, how could I try to work with almost everything that I like? 
+
+Well, I decided to study "Digital Games", this way I could work in the areas that I like. I would be able to draw, write, program, compose, etc.
+
+Ergo I hope i will be able to join nice companies and give my best! In the momente I'm typing my journey has just began and It's far from over!
 
 ## Contact:
 

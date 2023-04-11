@@ -10,6 +10,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Costards2&show_icons=true&theme=highcontrast)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Costards2)](https://github.com/Costards2)
+
 ## Skills: 
 <div style="display: inline_block"><br/>
 <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>

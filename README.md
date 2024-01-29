@@ -13,7 +13,6 @@ Ergo I hope i will be able to join nice companies and give my best! In the momen
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://pedrocostard.com)
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-costard-oliveira-057813231/)
-[![Blog](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)](https://www.deviantart.com/pedrocostard)
 [![Blog](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://costards2.itch.io/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Costards2&show_icons=true&theme=highcontrast)

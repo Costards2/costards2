@@ -1,8 +1,8 @@
 ## Hello world! I am Pedro Costard 👋
  
-I'm student at UNEB (Universidade Estadual da Bahia). Before I started to study at UNEB I was studying at IFBA (Instituto Federal da Bahia). There I studied Analysis and Development of Systems and discovered that I love programming... but what would I like to code? 
+ I'm student at UNEB (Universidade Estadual da Bahia). Before I started to study at UNEB I was studying at IFBA (Instituto Federal da Bahia). There I studied Analysis and Development of Systems and discovered that I love programming... but what would I like to code? 
 
-That question stuck with me for a long time... Until one day it hit me! Why not program something that I have always liked since I was a child. Therefore, I decided to take up game programming and I'm loving it! 
+ That question stuck with me for a long time... Until one day it hit me! Why not program something that I have always liked since I was a child. Therefore, I decided to take up game programming and I'm loving it! 
 
 ## Contact:
 

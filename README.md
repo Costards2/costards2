@@ -11,7 +11,7 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-costard-oliveira-057813231/)
 [![Blog](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://costards2.itch.io/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Costards2&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](	https://github-readme-stats.vercel.app/api?username=Costards2&show_icons=true&theme=blue-green)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Costards2)](https://github.com/Costards2)
 
@@ -23,5 +23,5 @@
 <img align="center" alt="VS" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 <img align="center" alt="VS CODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img align="center" alt="Unity" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" />
-<img align="center" alt="Blender" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />       
+<img align="center" alt="Blender" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)" />       
 </div>

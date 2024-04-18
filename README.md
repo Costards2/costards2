@@ -1,14 +1,14 @@
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <h1 align="center"><b>Hello World, I'm Pedro Costard Oliveira</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Game+Developer..&hearts;++;Digital+Games+Student,;Game+Programmer,;Beginner+3D+Artist,;Active+Learner+and+Researcher,;Love+to+learn+new+stuff!..<3"></a>
 </p>
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 # 💫 About Me:
 I'm student at UNEB (Universidade Estadual da Bahia). Before I started to study at UNEB I was studying at IFBA (Instituto Federal da Bahia). There I studied Analysis and Development of Systems and discovered that I love programming... but what would I like to code?<br><br>That question stuck with me for a long time... Until one day it hit me! Why not program something that I have always liked since I was a child. Therefore, I decided to take up game programming and I'm loving it!

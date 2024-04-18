@@ -4,6 +4,12 @@
        alt="snake" /></a>
 </div>
 
+<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->A
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
 # 💫 About Me:
 I'm student at UNEB (Universidade Estadual da Bahia). Before I started to study at UNEB I was studying at IFBA (Instituto Federal da Bahia). There I studied Analysis and Development of Systems and discovered that I love programming... but what would I like to code?<br><br>That question stuck with me for a long time... Until one day it hit me! Why not program something that I have always liked since I was a child. Therefore, I decided to take up game programming and I'm loving it!
 

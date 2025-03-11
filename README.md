@@ -5,7 +5,7 @@
 </p>
 
 # 💫 About Me:
-I'm student at UNEB (Universidade Estadual da Bahia). Before I started to study at UNEB I was studying at IFBA (Instituto Federal da Bahia). There I studied Analysis and Development of Systems and discovered that I love programming... but what would I like to code?<br><br>That question stuck with me for a long time... Until one day it hit me! Why not program something that I have always liked since I was a child. Therefore, I decided to take up game programming and I'm loving it!
+I'm Pedro Costard, passionate about game development and technology. I worked as a QA intern at EPRA Games, where I handled quality control, identified and fixed bugs, and organized processes and documentation. I am currently pursuing a degree in Digital Games at UNEB, expected to graduate in 2025. I have experience with .NET, C#, JavaScript, CSS, and Unity. My knowledge includes game design, script creation and analysis, as well as agile methodologies like Scrum. I am fluent in English and hold certifications in data engineering, data science, and Scrum. I participated as a programmer in GameJam+ 23/24 and maintain projects on GitHub and Itch.io, always striving to improve my skills and create engaging interactive experiences.
 
 
 ## 🌐 Socials:

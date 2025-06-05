@@ -7,14 +7,15 @@
 # 💫 About Me:
 Hi! I'm Pedro Costard, a Digital Games student at UNEB with a passion for technology, storytelling, and creating meaningful interactive experiences.
 
-Most of my work revolves around programming and game development, especially using C#, Unity, and .NET. I also have experience with front-end technologies like JavaScript and CSS, and I enjoy combining technical and creative thinking in everything I build.
+Most of my work is focused on programming and game development, especially using C#, Unity, and .NET. I also have experience with front-end technologies like JavaScript and CSS, and I enjoy combining technical and creative thinking in everything I build.
 
-I’ve worked as a QA intern at EPRA Games, where I was involved in testing, debugging, and improving development processes through organized documentation and team collaboration. This experience strengthened my attention to detail, communication skills, and ability to work in agile environments.
+I’ve worked as a QA intern at EPRA Games, where I took part in testing, bug fixing, and improving development workflows through organized documentation and teamwork. This experience sharpened my attention to detail, communication skills, and ability to work in agile environments.
 
-In addition to game development, I have a solid understanding of software architecture, version control with Git, and collaborative workflows. I'm comfortable working independently or as part of a team, and I’m always looking to learn, improve, and contribute to meaningful projects.
+I’m also interested in secure coding practices and strive to apply cybersecurity fundamentals in my workflow—from version control and data handling to building reliable and maintainable systems.
 
-Whether it’s building systems, solving problems, or crafting engaging experiences, I’m driven by curiosity and the desire to turn ideas into something real.
+In addition, I have a solid understanding of software architecture, Git-based version control, and collaborative workflows. I'm comfortable working independently or as part of a team, and I’m always looking to learn, grow, and contribute to projects that make an impact.
 
+Whether I’m building systems, solving problems, or crafting engaging experiences, I’m driven by curiosity and the desire to turn ideas into something real.
 
 ## 🌐 Socials:
 [![Itch.io](https://img.shields.io/badge/itch.io-FF6347?style=for-the-badge&logo=itchdotio&logoColor=white&logoWidth=20)](https://costards2.itch.io/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/pedro-costard-oliveira-057813231/)

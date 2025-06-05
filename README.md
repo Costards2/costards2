@@ -13,6 +13,8 @@ I’ve worked as a QA intern at EPRA Games, where I took part in testing, bug fi
 
 I’m also interested in secure coding practices and strive to apply cybersecurity fundamentals in my workflow—from version control and data handling to building reliable and maintainable systems.
 
+I'm fluent in English, which allows me to work comfortably with technical documentation, collaborate with international teams, and contribute to projects in global environments.
+
 In addition, I have a solid understanding of software architecture, Git-based version control, and collaborative workflows. I'm comfortable working independently or as part of a team, and I’m always looking to learn, grow, and contribute to projects that make an impact.
 
 Whether I’m building systems, solving problems, or crafting engaging experiences, I’m driven by curiosity and the desire to turn ideas into something real.

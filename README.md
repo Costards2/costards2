@@ -5,7 +5,15 @@
 </p>
 
 # 💫 About Me:
-I'm Pedro Costard, passionate about game development and technology. I worked as a QA intern at EPRA Games, where I handled quality control, identified and fixed bugs, and organized processes and documentation. I am currently pursuing a degree in Digital Games at UNEB, expected to graduate in 2025. I have experience with .NET, C#, JavaScript, CSS, and Unity. My knowledge includes game design, script creation and analysis, as well as agile methodologies like Scrum. I am fluent in English and hold certifications in data engineering, data science, and Scrum. I participated as a programmer in GameJam+ 23/24 and maintain projects on GitHub and Itch.io, always striving to improve my skills and create engaging interactive experiences.
+Hi! I'm Pedro Costard, a Digital Games student at UNEB with a passion for technology, storytelling, and creating meaningful interactive experiences.
+
+Most of my work revolves around programming and game development, especially using C#, Unity, and .NET. I also have experience with front-end technologies like JavaScript and CSS, and I enjoy combining technical and creative thinking in everything I build.
+
+I’ve worked as a QA intern at EPRA Games, where I was involved in testing, debugging, and improving development processes through organized documentation and team collaboration. This experience strengthened my attention to detail, communication skills, and ability to work in agile environments.
+
+In addition to game development, I have a solid understanding of software architecture, version control with Git, and collaborative workflows. I'm comfortable working independently or as part of a team, and I’m always looking to learn, improve, and contribute to meaningful projects.
+
+Whether it’s building systems, solving problems, or crafting engaging experiences, I’m driven by curiosity and the desire to turn ideas into something real.
 
 
 ## 🌐 Socials:

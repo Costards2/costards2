@@ -4,15 +4,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Game+Developer..&hearts;++;Web+Developer,;Game+Programmer,;Beginner+3D+Artist,;Active+Learner+and+Researcher,;Love+to+learn+new+stuff!..<3"></a>
 </p>
 
-# 💫 About Me:
-
-###
-
 <div align="center">
   <img height="150" src="https://i.imgflip.com/9ztv2d.gif"  />
 </div>
 
-###
+# 💫 About Me:
 
 Hi! I'm Pedro Costard, a Digital Games student at UNEB with a passion for technology, storytelling, and creating meaningful interactive experiences.
 

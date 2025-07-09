@@ -6,9 +6,13 @@
 
 # 💫 About Me:
 
+###
+
 <div align="center">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="150" src="https://imgflip.com/gif/9ztv2d"  />
 </div>
+
+###
 
 Hi! I'm Pedro Costard, a Digital Games student at UNEB with a passion for technology, storytelling, and creating meaningful interactive experiences.
 

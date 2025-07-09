@@ -28,12 +28,6 @@ In addition, I have a solid understanding of software architecture, Git-based ve
 
 Whether I’m building systems, solving problems, or crafting engaging experiences, I’m driven by curiosity and the desire to turn ideas into something real.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Costards2/Costards2/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Costards2/Costards2/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Costards2/Costards2/output/pacman-contribution-graph.svg">
-</picture>
-
 ## 🌐 Socials:
 <div align="left">
   <a href="https://www.linkedin.com/in/pedro-costard-oliveira/" target="_blank">

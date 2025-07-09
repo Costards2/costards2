@@ -5,6 +5,11 @@
 </p>
 
 # 💫 About Me:
+
+<div align="center">
+  <img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
 Hi! I'm Pedro Costard, a Digital Games student at UNEB with a passion for technology, storytelling, and creating meaningful interactive experiences.
 
 Most of my work is focused on programming and game development, especially using C#, Unity, and .NET. I also have experience with front-end technologies like JavaScript and CSS, and I enjoy combining technical and creative thinking in everything I build.

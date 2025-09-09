@@ -10,7 +10,7 @@
 
 # 💫 About Me:
 
-Hi! I'm Pedro Costard, a Digital Games student at UNEB with a passion for technology, storytelling, and creating meaningful interactive experiences.
+Hi! I'm Pedro Costard, and I'm majoring in Information Systems at UNEB, with a passion for technology, storytelling, and creating meaningful interactive experiences.
 
 Most of my work is focused on programming and game development, especially using C#, Unity, and .NET. I also have experience with front-end technologies like JavaScript and CSS, and I enjoy combining technical and creative thinking in everything I build.
 
